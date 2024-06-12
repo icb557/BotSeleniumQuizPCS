@@ -12,3 +12,5 @@ Este bot realiza una serie de interacciones en la página de [Viajes Éxito](htt
 - Extraer datos del DOM y mostrarlos por consola
 - Extraer datos del DOM y guardarlos en un archivo de texto plano
 - Tomar una captura de pantalla de la página
+
+[Video del funcionamiento](https://drive.google.com/file/d/1oBQrKp9qQBmhDAndtxQvL4og1H5puVxh/view?usp=sharing)
