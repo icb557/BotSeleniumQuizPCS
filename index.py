@@ -3,10 +3,9 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.action_chains import ActionChains
 import time
 
-service = Service("./driver/chromedriver.exe")
+service = Service('./driver/chromedriver.exe')
 bot = webdriver.Chrome(service=service)
 bot.maximize_window()
 
@@ -181,7 +180,7 @@ try:
     '''
 
     with open('output.txt', 'w', encoding='utf-8') as file:
-            file.write(text)
+        file.write(text)
 
     bot.save_screenshot('screenshot.png')
 

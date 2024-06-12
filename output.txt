@@ -1,0 +1,18 @@
+Best package deal with copa Airline.
+    
+    Departure Date : Jue, 20 Jun
+    Return Date : Jue, 27 Jun
+    Total cost: $ 17.774.840
+    
+    Outbound Flight:
+        Departure Place : Bogota
+        Arrival Place : Punta Cana
+        Departure Time : 18:10
+        Arrival Time : 11:05 +1
+
+    Return Flight:
+        Departure Place : Punta Cana
+        Arrival PLace : Bogota
+        Departure Time : 12:12
+        Arrival Time : 17:26
+    
